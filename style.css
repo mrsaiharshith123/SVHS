@@ -101,3 +101,18 @@ button:hover span{
 button:hover{
   border:none;
 }
+
+@media (max-width: 768px) {
+  nav ul {
+      flex-direction: column;
+  }
+
+  nav li {
+      margin: 10px 0;
+  }
+}
+
+
+
+
+
