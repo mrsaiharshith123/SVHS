@@ -1,4 +1,1 @@
-function gall() {
-    window.open("")
-    
-}
+
